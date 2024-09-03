@@ -6,7 +6,7 @@
 ### sheet3: Country, with tow visuals
 ### sheet4: Summmary, with three visuals and end card 
 ## Video given below describs how to navigate into visualization
-### Contry Navigation
+### Country Navigation
 https://github.com/user-attachments/assets/8805a034-d28f-495b-81ea-dc9cae07b74d
 ### Page Navigation
 https://github.com/user-attachments/assets/f1d0dc39-43f3-4c04-bac4-b5f567d0194d
